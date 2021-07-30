@@ -58,9 +58,9 @@ virtualenv
 Machine-learning-forecasting-using-SVM-venv
 
 # Windows
-dash-live-model-training-venv\Scripts\activate
+Machine-learning-forecasting-using-SVM-venv\Scripts\activate
 # Or Linux
-source dash-live-model-training-venv/bin/activate
+Machine-learning-forecasting-using-SVM-venv/bin/activate
 
 ```
 Clone the git repo, then install the requirements with pip
