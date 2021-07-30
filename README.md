@@ -18,9 +18,9 @@ Description of this project can be understood by flow chart below:
   
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [International Monetary Fund](https://www.imf.org/en/Publications/WEO/weo-database/2021/April)
+ - [Dash plotly](https://plotly.com/dash/)
+ - [Heroku](https://www.heroku.com/)
 
   
 ## Screenshots
@@ -30,12 +30,11 @@ Description of this project can be understood by flow chart below:
   
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to me at hamzahshabbir7@gmail.com
 
   
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzah-shabbir-108765a5/)
-[![stackoverflow](pictures/stack.jfif)](https://stackoverflow.com/users/16555815/hamzah-shabbir)
 
   
 
