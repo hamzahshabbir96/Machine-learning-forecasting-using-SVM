@@ -1,5 +1,5 @@
 
-For deployed Project follow [Go to website](https://svmalgorithm.herokuapp.com/)
+# For deployed Project follow [Go to website](https://svmalgorithm.herokuapp.com/)
 ![Logo](pictures/ss.png)
 
     
