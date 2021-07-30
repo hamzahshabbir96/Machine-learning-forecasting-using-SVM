@@ -2,14 +2,17 @@
 ![Logo](pictures/ss.png)
 
     
-# Project Title
+# Support vector machine algorithm for global database
 
-A brief description of what this project does and who it's for
+This project is for visualization of forecasted data produced by optimized machine learning algorithm.
+Description of this project can be understood by flow chart below:
+
+![Logo](pictures/project.png)
 
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@hamzahshabbir](https://www.linkedin.com/in/hamzah-shabbir-108765a5/)
 
   
 ## Acknowledgements
