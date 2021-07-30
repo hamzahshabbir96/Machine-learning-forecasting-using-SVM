@@ -1,4 +1,5 @@
 
+For deployed Project follow [Go to website](https://svmalgorithm.herokuapp.com/)
 ![Logo](pictures/ss.png)
 
     
@@ -7,7 +8,7 @@
 This project is for visualization of forecasted data produced by optimized machine learning algorithm.
 Description of this project can be understood by flow chart below:
 
-![Logo](pictures/project.png)
+![Logo](pictures/project.jpg)
 
 
 ## Authors
