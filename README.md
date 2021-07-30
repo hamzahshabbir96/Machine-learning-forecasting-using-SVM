@@ -35,18 +35,9 @@ If you have any feedback, please reach out to us at fake@fake.com
   
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzah-shabbir-108765a5/)
-[![stackoverflow](pictures/tack.jfif)](https://twitter.com/)
+[![stackoverflow](pictures/stack.jfif)](https://stackoverflow.com/users/16555815/hamzah-shabbir)
 
   
-## FAQ
-
-#### Question 1
-
-Answer 1
-
-#### Question 2
-
-Answer 2
 
   
 ## Running the application locally
@@ -75,4 +66,14 @@ Run the app and follow local host
 ```bash
 python index.py
 ```
+
+## FAQ
+
+#### Is this app deployed?
+
+Yes you can follow [this link](https://svmalgorithm.herokuapp.com/)
+
+#### Can I use your code?
+
+If you want to contribute or collaborate, then write me to hamzahshabbir7@gmail.com. 
 
