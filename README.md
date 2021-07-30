@@ -23,9 +23,7 @@ Description of this project can be understood by flow chart below:
  - [Heroku](https://www.heroku.com/)
 
   
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
   
 ## Feedback
