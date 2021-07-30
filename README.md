@@ -1,5 +1,4 @@
 
-
 ![Logo](pictures/ss.png)
 
     
@@ -47,3 +46,30 @@ Answer 1
 Answer 2
 
   
+## Running the app locally
+
+
+First create a virtual environment with conda or venv inside a temp folder, then activate it.
+
+
+
+```bash
+virtualenv 
+Machine-learning-forecasting-using-SVM-venv
+
+# Windows
+dash-live-model-training-venv\Scripts\activate
+# Or Linux
+source dash-live-model-training-venv/bin/activate
+
+```
+Clone the git repo, then install the requirements with pip
+```bash
+git clone https://github.com/hamzahshabbir96/Machine-learning-forecasting-using-SVM.git
+pip install -r requirements.txt
+```
+Run the app and follow local host 
+```bash
+python index.py
+```
+
