@@ -2,7 +2,7 @@
 
 ![Logo](pictures/ss.png)
 
-    
+[![Demo Video](images/gifmain.gif)](https://youtu.be/nTXULyWDL78)
 # Support vector machine algorithm for global database
 ## For deployed Project follow [Go to website](https://svmalgorithm.herokuapp.com/)
 This project is for visualization of forecasted data produced by optimized machine learning algorithm.
