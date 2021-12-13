@@ -2,7 +2,7 @@
 
 ![Logo](pictures/ss.png)
 
-[![Demo Video](images/gifmain.gif)](https://youtu.be/nTXULyWDL78)
+[![Demo Video](pictures/gifmain.gif)](https://youtu.be/nTXULyWDL78)
 # Support vector machine algorithm for global database
 ## For deployed Project follow [Go to website](https://svmalgorithm.herokuapp.com/)
 This project is for visualization of forecasted data produced by optimized machine learning algorithm.
@@ -63,14 +63,4 @@ Run the app and follow local host
 ```bash
 python index.py
 ```
-
-## FAQ
-
-#### Is this app deployed?
-
-Yes you can follow [this link](https://svmalgorithm.herokuapp.com/)
-
-#### Can I use your code?
-
-If you want to contribute or collaborate, then write me to hamzahshabbir7@gmail.com. 
 
